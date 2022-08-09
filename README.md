@@ -49,11 +49,12 @@ Next we need to solder on the LEDs. We’ll use essentially the same process, pl
 
 Current will flow through LEDs in only one direction! Make sure the side with the green line (the cathode) MUST be on the closed end of the box on the silkscreen. Getting one of these wrong could burn out the other LEDs quickly, and getting more than one wrong could prevent the badge from doing anything at all. If you’re worried, you can use a multimeter to check the flow of current for each LED after soldering.
 
+### Note! For best light dispersion turn the LEDs 90 degrees to face inwards towards the center of the badge! This is different from the depiction in the images. 
  ![LED](https://user-images.githubusercontent.com/85370905/183690574-3685cd4f-dbc2-4304-863e-293f27b02181.jpg)
 
 
 Repeat the process for each of the five LEDs.
-
+### Note! For best light dispersion turn the LEDs 90 degrees to face inwards towards the center of the badge! This is different from the depiction in the images.
 ## Testing
 
 Before you attach the SAO connector, now is a good time to double check that everything is working as expected. There are several valid ways to do this, including using a multimeter to check that the connections are functioning and applying voltage to the entire badge.
